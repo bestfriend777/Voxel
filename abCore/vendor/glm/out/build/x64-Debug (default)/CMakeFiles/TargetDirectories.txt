@@ -1,0 +1,2 @@
+C:/ab_dev/opengl/abCore/abCore/vendor/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/ab_dev/opengl/abCore/abCore/vendor/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

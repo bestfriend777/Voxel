@@ -1,0 +1,8 @@
+C:\Users\bofto\Library\Resources\Repos&SrcCode\OpenGL\OpenGL-Core\vendor\Glad\bin\Debug-windows-x86_64\Glad\Glad.pdb
+C:\Users\bofto\Library\Resources\Repos&SrcCode\OpenGL\OpenGL-Core\vendor\Glad\bin-int\Debug-windows-x86_64\Glad\Glad.pdb
+C:\Users\bofto\Desktop\OpenGL\OpenGL-Core\vendor\Glad\bin\Debug-windows-x86_64\Glad\Glad.pdb
+C:\Users\bofto\Desktop\OpenGL\OpenGL-Core\vendor\Glad\bin-int\Debug-windows-x86_64\Glad\Glad.pdb
+C:\dev\opengl\OpenGL_3\OpenGL-Core\vendor\Glad\bin\Debug-windows-x86_64\Glad\Glad.pdb
+C:\dev\opengl\OpenGL_3\OpenGL-Core\vendor\Glad\bin-int\Debug-windows-x86_64\Glad\Glad.pdb
+C:\ab_dev\opengl\SandboxApp\OpenGL_6\OpenGL_Core\vendor\Glad\bin\Debug-windows-x86_64\Glad\Glad.pdb
+C:\ab_dev\opengl\SandboxApp\OpenGL_6\OpenGL_Core\vendor\Glad\bin-int\Debug-windows-x86_64\Glad\Glad.pdb

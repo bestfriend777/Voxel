@@ -1,0 +1,3 @@
+#pragma once
+
+// MAKE THE GLFW WINDOW HERE INSTEAD
